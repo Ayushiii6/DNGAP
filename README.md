@@ -76,5 +76,4 @@ If there are no errors, your environment is correctly set up.
 
 ### Step 5: Run Your Code
 Once the libraries are installed and verified, you can run your Python IPYNB file using basic Jupyter Notebook Commands
-```
 
